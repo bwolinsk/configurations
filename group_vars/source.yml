@@ -1,6 +1,0 @@
----
-  controller_username: admin
-  controller_password: redhat123
-  controller_hostname: "3.138.80.11"
-  controller_validate_certs: false
-  output_path: /tmp/export

@@ -1,6 +1,0 @@
----
-  other_controller_username: admin
-  other_controller_password: redhat123
-  other_controller_hostname: "3.136.166.24"
-  other_controller_validate_certs: false
-  output_path: /tmp/export
