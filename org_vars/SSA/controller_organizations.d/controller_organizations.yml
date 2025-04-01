@@ -1,0 +1,6 @@
+---
+controller_organizations:
+  - name: Default
+    max_hosts: 0
+  - name: SSA
+    max_hosts: 0

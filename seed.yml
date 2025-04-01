@@ -6,13 +6,10 @@
   vars:
     input_tag:
       - inventory
-      - inventory_sources
       - credentials
-      - credential_types
       - organizations
       - projects
       - job_templates
-      - workflow_job_templates
       - schedules
 
   pre_tasks:

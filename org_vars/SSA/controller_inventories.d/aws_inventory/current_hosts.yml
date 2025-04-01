@@ -1,0 +1,10 @@
+---
+controller_hosts:
+  - name: "3.136.166.24"
+    description: "down.bartyboy.dev"
+    inventory: "AWS Inventory"
+  - name: "3.138.80.11"
+    description: "up.bartyboy.dev"
+    inventory: "AWS Inventory"
+...
+
